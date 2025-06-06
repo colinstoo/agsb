@@ -35,7 +35,7 @@ USER_NAME = "tututu"         # 用户名
 UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "pikaour.com"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiMGRiMTY5YTNlYzk1OGMyNWI0MTAwNzhkZDUwYTZkZWUiLCJ0IjoiNThjODg3NjYtMzdlYS00MTk1LWFmNmQtOGUxNjA2MmI5YTZkIiwicyI6Ik5HTXdORE5qTkdJdE1HWTNPQzAwTVdNNUxUazRNell0WTJZMk1UWmlZelZpWmpRMyJ9
+CF_TOKEN = "eyJhIjoiMGRiMTY5YTNlYzk1OGMyNWI0MTAwNzhkZDUwYTZkZWUiLCJ0IjoiM2QyNTNhMzYtZjRlYS00YzRkLWFmMjgtYjU2ODExMmVjYmQzIiwicyI6Ill6UmpaVGc0TmpRdFpEWmxZaTAwT1RGaExXSTBOemd0Wm1FMVl6UmxPRGM1TW1VNCJ9
 "                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
